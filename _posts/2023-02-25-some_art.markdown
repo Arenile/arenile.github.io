@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "One of the characters I've drawn"
+date:   2023-02-24 20:13:33 -0600
+categories: blog
+---
+Hello! I thought I would share one of the characters that I've drawn more recently (not actually so recently).  
+  
+I don't expect much of this blog will be art stuff, and will instead primarily be about some neat research findings or cool papers I run across. From time to time though, I may decide to share something related to my hobbies.  
+
+BCNU
+
+![Iris The Faerie](/images/iris_sketch.jpg)
