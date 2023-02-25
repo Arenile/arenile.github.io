@@ -64,7 +64,7 @@ permalink: /resume/
 - **2021** University of Arkansas Honors College Undergraduate Research Grant
 - **2019** University of Arkansas National Merit Scholar
 
-[CV Download](/docs/Resume.pdf)
+[CV Download](/docs/Resume_v2-25-23.pdf)
 
 
 
