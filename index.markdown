@@ -7,7 +7,7 @@ layout: home
 ![Headshot of me!](/images/prof_headshot.jpg){: width="250" border="3px solid #77de77" align="right" padding-right="5px"}
 
 # About Me
-Hello, and welcome to my little corner of the internet! I'm Ivris Raymond, 
+I'm Ivris Raymond, 
 an undergraduate student at the University of Arkansas studying computer engineering.
 Since summer 2021 I've been conducting undergraduate research in the AESIR Lab under
 the direction of Dr. Alex Nelson.  

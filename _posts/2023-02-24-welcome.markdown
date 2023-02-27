@@ -1,9 +1,7 @@
 ---
 layout: post
 title:  "Welcome to my blog!"
-date:   2023-02-24 20:13:33 -0600
+date:   2023-02-27 12:41:00 -0600
 categories: blog
 ---
-This is the first post on this blog, and to be honest I'm not entirely sure what I'll put here. For now though, I'll start with this really cool picture of a tree that I took a while ago. Please enjoy this tree! 
-
-![Cool tree!](/images/tree_pic.jpg)
+Welcome to my blog! Most of what I'll talk about here is just research papers that I've read and found interesting. I may also discuss progress in my own research. 
